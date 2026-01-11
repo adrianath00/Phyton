@@ -1,0 +1,17 @@
+2026-01-09 12:43:58,959 - INFO - ===== INICIO PIPELINE ETL =====
+2026-01-09 12:44:00,276 - INFO - ===== INICIO PIPELINE ETL =====
+2026-01-09 12:44:00,276 - INFO - Buscando ficheros en: C:\Users\50243742\Downloads\PROYECTO_ETL_GANG_FUENLA\data\source
+2026-01-09 12:44:00,277 - INFO - Archivos encontrados: ['Clientes-2025-11-10.csv', 'Clientes-2026.csv', 'Tarjetas-2025-11-10.csv']
+2026-01-09 12:44:00,277 - INFO - Procesando clientes: C:\Users\50243742\Downloads\PROYECTO_ETL_GANG_FUENLA\data\source\Clientes-2025-11-10.csv
+2026-01-09 12:44:00,304 - INFO - Clientes limpios guardados en: C:\Users\50243742\Downloads\PROYECTO_ETL_GANG_FUENLA\data\output\Clientes-2025-11-10.cleaned.csv
+2026-01-09 12:44:00,304 - INFO - Archivo ignorado (patrón no válido): Clientes-2026.csv
+2026-01-09 12:44:00,309 - INFO - Procesando tarjetas: C:\Users\50243742\Downloads\PROYECTO_ETL_GANG_FUENLA\data\source\Tarjetas-2025-11-10.csv
+2026-01-09 12:44:00,318 - INFO - Tarjetas limpias guardadas en: C:\Users\50243742\Downloads\PROYECTO_ETL_GANG_FUENLA\data\output\Tarjetas-2025-11-10.cleaned.csv
+2026-01-09 12:44:00,318 - INFO - ===== FIN PIPELINE ETL =====
+2026-01-09 12:44:00,994 - INFO - Conectando a BD: sqlite:///C:\Users\50243742\Downloads\PROYECTO_ETL_GANG_FUENLA\proyecto_final.db
+2026-01-09 12:44:01,057 - INFO - Insertando 3 filas en tabla tabla_clientes
+2026-01-09 12:44:01,083 - INFO - Insertando 2 filas en tabla tabla_clientes
+2026-01-09 12:44:01,089 - INFO - Insertando 3 filas en tabla tabla_tarjetas
+2026-01-09 12:44:01,099 - INFO - Carga a BD completada.
+2026-01-09 12:44:01,099 - INFO - Pipeline ejecutado correctamente
+2026-01-09 12:44:01,099 - INFO - ===== FIN PIPELINE ETL =====

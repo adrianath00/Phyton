@@ -1,0 +1,4 @@
+cod_cliente;nombre;apellido1;apellido2;dni;correo;telefono;DNI_OK;Telefono_OK;Correo_OK
+C001;Maria;Garcia;Perez;12345678A;maria.garcia@example.com;612345678;N;Y;Y
+C002;Jose;Lopez;Hernandez;87654321B;jose.lopez@example.com;612345679;N;Y;Y
+C003;Ana-Maria;Ruiz;;23456789C;ana.ruiz@example.com;612345680;N;Y;Y
