@@ -1,0 +1,15 @@
+# Entornos
+.env
+venv/
+__pycache__/
+
+# Base de datos
+*.db
+
+# Datos generados
+data/output/
+data/errors/
+logs/
+
+# Logs
+*.log
